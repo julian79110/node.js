@@ -42,7 +42,14 @@ y el correspondiente export para poder importarlo en otros archivos:
 
 ## App
 
-- 
+- en este archivo usamos todos los imports necesarios para poder ejecutar nuestra app e importamos los archivos anteriores para poder mostrarlos:
+
+![image](https://github.com/julian79110/node.js/assets/128442954/41abfa43-d7c7-4e67-8961-b1120de9f08b)
+
+ejemplo de la pagina: 
+
+![image](https://github.com/julian79110/node.js/assets/128442954/9a118e08-044a-4583-92f3-faf6fc34fc7c)
+
 
 
 
